@@ -105,7 +105,6 @@ input::-webkit-inner-spin-button {
   background-color: #1e1e1e;
   border-left: 4px solid #007bff;
   border-radius: 6px;
-  color: #fff;
   font-family: monospace;
   flex-wrap: wrap;
 }
